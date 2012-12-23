@@ -1,5 +1,6 @@
 == Rails3, Mongoid and Deivise
 
 This is is another app am building while following along to one of Daniel Kehoes tutorials
-Am building it as a way of getting my feet wet with a shema-less data store, mongoDB
+Am building it as a way of getting my feet wet with a shema-less data store, mongoDB and the 
+front end frame work "Zurb"
 
